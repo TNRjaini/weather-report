@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    font-size: 16px;
+  }
+  
+  .weather-info {
+    text-align: center;
+  }
+  
+  .weather-info .location {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .weather-info .temperature {
+    font-size: 48px;
+  }
+  
+  .weather-info .description {
+    font-size: 18px;
+  }
+  
+  .weather-info .icon {
+    margin-top: 10px;
+  }
+  
+  .weather-info .icon img {
+    width: 100px;
+  }
+  
